@@ -1,9 +1,9 @@
 num = 2
 a = 6
 b = 7
-age = 25
-temperature = 30
-user_role = "admin"
+age = 15
+temperature = 19
+user_role = "guest"
 
 print("Positive" if num > 0 else "Negative")
 result = "Even" if num % 2 == 0 else "Odd"
